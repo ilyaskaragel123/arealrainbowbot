@@ -224,4 +224,4 @@ break;
  });
   });
    
-bot.login('NDgzMDAwMDk5NTE4MjgzNzc3.DmiDkg.jOJlUQimNA_es5M_L7WaqQmjJmg') 
+bot.login('token') 
